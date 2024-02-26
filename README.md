@@ -24,4 +24,4 @@
 
 ## ⚖ Legal Notice
 
-Code or software written by Dipapansembilan Studio and its contributors are licensed under the <a href="https://github.com/dp9studio/Website/blob/main/LICENSE.md">MIT License</a>. Graphical artworks and designs by Dipapansembilan Studio are copyrighted works and therefore is subject to Malaysian copyright laws under the <a href="http://www.agc.gov.my/agcportal/uploads/files/Publications/LOM/EN/Act%20332%20-%20Copyright%20Act%201987%20Cetakan%20Semula%202013.pdf">Copyright Act 1987</a>.
+Code or software written by Dipapansembilan Studio and its contributors are licensed under the <a href="https://github.com/dp9studio/mural.dp9studio.com/blob/master/LICENSE.md">EUPL</a>. Graphical artworks and designs by Dipapansembilan Studio are copyrighted works and therefore is subject to Malaysian copyright laws under the <a href="http://www.agc.gov.my/agcportal/uploads/files/Publications/LOM/EN/Act%20332%20-%20Copyright%20Act%201987%20Cetakan%20Semula%202013.pdf">Copyright Act 1987</a>.
